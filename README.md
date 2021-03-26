@@ -1,4 +1,6 @@
-#  Take over and improve an existing project | Reprendre et améliorer un projet existant
+#  todo-list
+
+Take over and improve an existing project | Reprendre et améliorer un projet existant
 
 [Todos - A todo list project](yoplala.github.io/todo-list/)
 

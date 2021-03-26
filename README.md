@@ -1,12 +1,7 @@
 #  Take over and improve an existing project | Reprendre et améliorer un projet existant
 
-[Todos - A todo list project](yoplala.github.io/todo-list/]
+[Todos - A todo list project](yoplala.github.io/todo-list/)
 
-Project carried out as part of my training. Documentation in French only.
-
-Projet réalisé dans le cadre de ma formation "Développeur d'application - Frontend" ([OpenClassRooms](https://openclassrooms.com)).
-
-Toutes les informations et la documentation se trouve sur le [Wiki](https://github.com/Yoplala/todo-list/wiki) du projet !
 
 ## Contexte
 
@@ -25,7 +20,7 @@ Consignes :
 - Rédiger la documentation pour les utilisateurs
 - Rédiger la documentation technique
 
-Livrables : code mis à jour et documentation
+Livrables : code mis à jour et documentation (présente sur le [Wiki](https://github.com/Yoplala/todo-list/wiki) du projet)
 
 
 ## Apprentissage
